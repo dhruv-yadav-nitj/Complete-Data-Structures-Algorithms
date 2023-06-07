@@ -1,0 +1,7 @@
+
+What are Stable Sorting Algorithms?
+An algorithm is said to be sorted when the relative order of equal elements remains same in the final sorted array. Some sorting algorithms such as Bubble Sort, Insertion Sort, Merge Sort are stable by nature.
+Which sorting algorithms are unstable? 
+Quick Sort, Heap Sort etc., can be made stable by also taking the position of the elements into consideration.
+Can we make any sorting algorithm stable? 
+Any given sorting algorithm which is not stable can be modified to be stable. There can be algorithm-specific ways to make it stable, but in general, any comparison-based sorting algorithm which is not stable by nature can be modified to be stable by changing the key comparison operation so that the comparison of two keys considers position as a factor for objects with equal keys.
