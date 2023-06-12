@@ -39,7 +39,7 @@ public:
     int findPages(int A[], int N, int M)
     {
         // acc to question its not possible to allocate 0 books to a student and its not possible to allocate all the books to the same student, but for sake of convenience and to start from somewhere lets take
-        int low(0), high ;
+        int low(0), high(accumulate(A, A + N, 0)) ;
         
         
         int ans(-1);
