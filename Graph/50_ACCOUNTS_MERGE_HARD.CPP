@@ -2,7 +2,7 @@
 #define IOS ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0) 
 using namespace std ;
 
-// takeuforward article is very very good --> go and read it once if u dont understand and remember the things
+// takeuforward article is very very good --> go and read it once if u dont understand from the comments below
 
 class DisjointSet {
 
