@@ -8,7 +8,7 @@ This repository contains my implementation of various data structures and algori
 `Arrays` `String` `Sorting` `Binary Search` `Hashing` `LeetCode Problems` `Linked List` `Stacks` `Queue` `Deque` `Matrix` `Greedy` `Recursion` `Backtracking` `OOPs` `Bit Manipulation` `Tree` `Binary Search Tree` `Trie` `Heap` `Priority Queue` `Graph` `Disjoint Set` `Dynamic Programming`
 
 ## Resources
-[`Striver's TakeUForward`](https://www.youtube.com/@takeUforward) [`NeetCode`](https://www.youtube.com/@NeetCode) [`A2Z DSA Sheet`](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) [`CodeHelp - By Babbar`](https://www.youtube.com/@CodeHelp)
+[`Striver's TakeUForward`](https://www.youtube.com/@takeUforward) [`NeetCode`](https://www.youtube.com/@NeetCode) [`CodeHelp - By Babbar`](https://www.youtube.com/@CodeHelp)
 ##
 <b>Note</b>
 1. If you don't find any file in their correpsonding topic folder, then try searching it in Miscellaneous Folder.
